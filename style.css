@@ -1,0 +1,27 @@
+body{
+    background-color: #065f58;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+form{
+    display: flex;
+    margin: auto;
+    gap:20px ;
+    flex-wrap: wrap;
+    margin-block: 30px ;
+}
+
+form input 
+{
+    all:unset;
+    padding: 10px;
+    border-radius: 25px;
+}
